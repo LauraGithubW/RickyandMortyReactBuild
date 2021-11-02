@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc96eb06.chunk.css",
+    "main.js": "/static/js/main.ba7d5dbb.chunk.js",
+    "main.js.map": "/static/js/main.ba7d5dbb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.51ac1916.js",
+    "runtime-main.js.map": "/static/js/runtime-main.51ac1916.js.map",
+    "static/js/2.2c5922a3.chunk.js": "/static/js/2.2c5922a3.chunk.js",
+    "static/js/2.2c5922a3.chunk.js.map": "/static/js/2.2c5922a3.chunk.js.map",
+    "static/js/3.a8732309.chunk.js": "/static/js/3.a8732309.chunk.js",
+    "static/js/3.a8732309.chunk.js.map": "/static/js/3.a8732309.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.dc96eb06.chunk.css.map": "/static/css/main.dc96eb06.chunk.css.map",
+    "static/js/2.2c5922a3.chunk.js.LICENSE.txt": "/static/js/2.2c5922a3.chunk.js.LICENSE.txt",
+    "static/media/musica.dd470755.mp3": "/static/media/musica.dd470755.mp3",
+    "static/media/ricky.c23307bf.jpg": "/static/media/ricky.c23307bf.jpg",
+    "static/media/spinning-circles.68c79d44.svg": "/static/media/spinning-circles.68c79d44.svg",
+    "static/media/video.b9b354df.mp4": "/static/media/video.b9b354df.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51ac1916.js",
+    "static/js/2.2c5922a3.chunk.js",
+    "static/css/main.dc96eb06.chunk.css",
+    "static/js/main.ba7d5dbb.chunk.js"
+  ]
+}
